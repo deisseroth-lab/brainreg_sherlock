@@ -1,6 +1,7 @@
 # brainreg_sherlock
 
-Some simple applications to run brainreg on Stanford's Sherlock SLURM cluster.
+Some simple applications to run [brainreg](https://github.com/brainglobe/brainreg)
+on Stanford's Sherlock SLURM cluster.
 
 1. The `data_sync` utility copies files to scratch space for faster data
    access.  This runs commands from `mpifileutils`.
